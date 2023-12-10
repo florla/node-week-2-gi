@@ -1,0 +1,64 @@
+{
+    "Employees": [
+      {
+        "employeeID": 1,
+        "name": "Will Stetson",
+        "salary": 60000,
+        "department": "Customer Support"
+      },
+      {
+        "employeeID": 2,
+        "name": "Park Hoon",
+        "salary": 70000,
+        "department": "Sales"
+      },
+      {
+        "employeeID": 3,
+        "name": "Sim Jae",
+        "salary": 55000,
+        "department": "HR"
+      },
+      {
+        "employeeID": 4,
+        "name": "Issei Pen",
+        "salary": 80000,
+        "department": "CEO"
+      },
+      {
+        "employeeID": 5,
+        "name": "Vanta Crow",
+        "salary": 65000,
+        "department": "Social Media"
+      },
+      {
+        "employeeID": 6,
+        "name": "Hayden Hay",
+        "salary": 75000,
+        "department": "Finance"
+      },
+      {
+        "employeeID": 7,
+        "name": "Suru Abbot",
+        "salary": 60000,
+        "department": "Research"
+      },
+      {
+        "employeeID": 8,
+        "name": "Chang Sun",
+        "salary": 70000,
+        "department": "Marketing"
+      },
+      {
+        "employeeID": 9,
+        "name": "Lovi Smith",
+        "salary": 65000,
+        "department": "IT"
+      },
+      {
+        "employeeID": 10,
+        "name": "Semi Ellis",
+        "salary": 80000,
+        "department": "Security"
+      }
+    ]
+  }
